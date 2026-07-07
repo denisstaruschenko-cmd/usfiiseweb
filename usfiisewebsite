@@ -1,0 +1,57 @@
+iise-usf-website
+│
+├── .github
+│   └── workflows
+│
+├── public
+│   ├── images
+│   ├── icons
+│   └── favicon.ico
+│
+├── src
+│   ├── assets
+│   │   ├── css
+│   │   ├── images
+│   │   └── logos
+│   │
+│   ├── components
+│   │   ├── Admin
+│   │   ├── Auth
+│   │   ├── Calendar
+│   │   ├── Gallery
+│   │   ├── Layout
+│   │   ├── Team
+│   │   └── UI
+│   │
+│   ├── context
+│   │
+│   ├── firebase
+│   │
+│   ├── hooks
+│   │
+│   ├── pages
+│   │   ├── Admin
+│   │   ├── Home
+│   │   ├── Events
+│   │   ├── Gallery
+│   │   ├── Team
+│   │   ├── Feedback
+│   │   └── Login
+│   │
+│   ├── routes
+│   │
+│   ├── services
+│   │
+│   ├── utils
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── .gitignore
+├── firebase.json
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
